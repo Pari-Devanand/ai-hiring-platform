@@ -20,3 +20,13 @@ Recruiters upload job descriptions → upload resumes → rank candidates → sh
 ## Run locally
 pip install streamlit pandas
 streamlit run app.py
+## Screenshots
+
+### Applicant Dashboard
+![Applicant](screenshot1.png)
+
+### Recruiter Dashboard
+![Recruiter](screenshot2.png)
+
+### Ranking & Tracking
+![Tracking](screenshot3.png)
